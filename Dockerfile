@@ -1,4 +1,5 @@
 FROM python
+# FROM python:12 add tags to image
 
 WORKDIR /app
 
